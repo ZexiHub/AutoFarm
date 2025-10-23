@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://paste.debian.net/plainh/232f3191/", true))() loadstring(game:HttpGet("https://pastefy.app/XpdRjdYD/raw", true))()
+loadstring(game:HttpGet("https://paste.debian.net/plainh/232f3191/", true))() loadstring(game:HttpGet('https://raw.githubusercontent.com/OnyxHub-New/OnyxHub/refs/heads/main/mm2'))()
 
